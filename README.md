@@ -1,6 +1,8 @@
 # mmrm
 Mixed Models for Repeated Measures Use mmrm With (In) R Software
 
+https://www.youtube.com/watch?v=0TXT75_20YE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
